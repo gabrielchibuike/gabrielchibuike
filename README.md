@@ -13,4 +13,4 @@ I'm Gabriel chibuike — a passionate developer who loves building cool projects
 - Docker | Kubernetes | AWS
 
 ## Connect with me
-- [LinkedIn](https://linkedin.com/in/gabriel-chibuike)
+- [LinkedIn](https://linkedin.com/in/chibuike-gabriel)
