@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
+I'm Gabriel chibuike — a passionate developer who loves building cool projects!
 
-<!--
-**gabrielchibuike/gabrielchibuike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m learning ML/AI Engineering.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about [Your Expertise].
+- 📫 How to reach me: gabrielnwagu2002@gmail.com.
+- ⚡ Fun fact: I love music.
 
-Here are some ideas to get you started:
+## Skills
+- JavaScript | TypeScript | Python
+- React | Next.js | Node.js
+- Docker | Kubernetes | AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+- [LinkedIn](https://linkedin.com/in/gabriel-chibuike)
